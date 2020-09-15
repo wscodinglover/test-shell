@@ -9,6 +9,7 @@
   "author": "wangshuai",
   "license": "MIT",
   "dependencies": {
+    "procstreams": "^0.3.0",
     "shelljs": "^0.8.4",
     "yargs": "^15.4.0"
   }
